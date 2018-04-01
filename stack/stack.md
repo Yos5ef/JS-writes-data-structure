@@ -6,9 +6,9 @@
 
 栈又分链式栈和顺序栈
 
-##顺序栈
+## 顺序栈
 
 
-##链式栈
+## 链式栈
 
-[链式栈] https://github.com/Yos5ef/JS-writes-data-structure/blob/master/stack/chainStack.md
+[链式栈]:https://github.com/Yos5ef/JS-writes-data-structure/blob/master/stack/chainStack.md
