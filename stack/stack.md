@@ -11,4 +11,4 @@
 
 ##链式栈
 
-[链式栈]
+[链式栈] https://github.com/Yos5ef/JS-writes-data-structure/blob/master/stack/chainStack.md
