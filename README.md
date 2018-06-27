@@ -2,7 +2,7 @@
 ## 概要
 
 ## 目录
-1.栈（暂未发布）
+1.[栈](https://github.com/Yos5ef/JS-writes-data-structure/tree/master/stack)
 
 2.队列（暂未发布）
 
