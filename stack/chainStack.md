@@ -22,22 +22,4 @@ function Stack(){
   this.pop = function(){
     if(this.bottom){
       let node = null;
-      node = this.bottom;
-      this.bottom = this.bottom.pointer;
-      return node.value;
-    }
-  }
-}
-
-
-//test
-let arr = [1,2,3,4,5,6,7,8,9,0];
-let stack = new Stack();
-for(let i=0,len=arr.length;i<len;i++){
-  stack.push(arr[i]);
-}
-for(let i=0;i<10;i++){
-  let a = stack.pop();
-  alert(a);
-}
-```
+      node = this.b
