@@ -80,7 +80,7 @@ for(let i=0;i<10;i++){
 	alert(a);
 }
 ```
-
+[最终代码](https://github.com/Yos5ef/JS-writes-data-structure/blob/master/stack/chainStack.js)
 
 
 
