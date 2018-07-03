@@ -57,7 +57,7 @@ function Queue() {
     }
   }
   
-  this.pop - function () {
+  this.pop = function () {
     let node = null;
     if (this.start) {
        node = this.start;
