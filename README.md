@@ -4,7 +4,7 @@
 ## 目录
 1.[栈](https://github.com/Yos5ef/JS-writes-data-structure/tree/master/stack)
 
-2.队列（暂未发布）
+2.[队列](https://github.com/Yos5ef/JS-writes-data-structure/tree/master/Queue)
 
 3.链表（暂未发布）
 
